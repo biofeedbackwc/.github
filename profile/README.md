@@ -1,4 +1,4 @@
-# .github
+# Hello World!
 Welcome to Biofeedback Wellness Center on GitHub!
 
 Website: https://biofeedbackwc.com
