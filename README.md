@@ -1,3 +1,3 @@
 # .github
 
-Community health files for the @biofeedbackwc organization
+*Community health files for the [@biofeedbackwc](https://github.com/biofeedbackwc.com) organization*
